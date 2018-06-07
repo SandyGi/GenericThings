@@ -1,14 +1,3 @@
-/*
- *
- *
- *  * Copyright (c) 2017-2018 by Mobisoft Infotech Pvt Ltd, Inc.
- *
- *  * All Rights Reserved
- *
- *  * Company Confidential
- *
- *
- */
 
 package com.genericthings.helper;
 
